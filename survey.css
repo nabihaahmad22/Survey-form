@@ -1,0 +1,115 @@
+body{
+  background-image: url('xx.jpg');
+  color: white;
+}
+h1{
+  text-align: center;
+  font-family:Arial Narrow;
+}
+h2{
+  text-align: center;
+  font-size:20px;
+  font-family:Courier;
+}
+form{
+  background-image: url('astronomy-1867616__340.jpg');
+  padding-top: 15px;
+  margin-left:400px;
+  margin-right:400px;
+  border-radius: 10px;
+}
+#form{
+  padding-top:10px;
+ padding-top:15px;
+  font-size:17px;
+  margin-left:15px;
+  
+}
+
+
+#name-label{
+  width:500px;
+  border-radius:5px;
+  height:25px;
+margin-top:5px;
+  margin-bottom: 20px;
+}
+#email-label{
+   width:500px;
+  border-radius:5px;
+  height:25px;
+margin-top:5px;
+   margin-bottom: 20px;
+}
+#number{
+   width:500px;
+  border-radius:5px;
+  height:25px;
+margin-top:10px;
+   margin-bottom: 20px;
+}
+#cr{
+  margin-left:15px;
+  margin-top:10px;
+  font-size:17px;
+}
+#dropdown{
+  margin-top:10px;
+  width:510px;
+  border-radius:5px;
+  height:30px;
+   margin-bottom: 20px;
+}
+#recommend{
+  margin-left: 15px;
+  margin-top:15px;
+  margin-bottom:10px;
+  font-size: 17px;
+}
+#ft{
+   margin-left:15px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:17px;
+}
+#Drop{
+   margin-top:10px;
+  width:510px;
+  border-radius:5px;
+  height:30px;
+   margin-bottom: 20px;
+  
+}
+#im{
+    margin-left:15px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:17px;
+}
+#ip{
+  margin-bottom:10px;
+  font-weight:bold;
+  font-size:18px;
+}
+#sg{
+    margin-left:15px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size:20px;
+}
+#in{
+text-align:text-align;
+  width:500px;
+  height: 100px;
+  margin-bottom:15px;
+  margin-left: 15px;
+}
+#submit{
+  margin-bottom:15px;
+  margin-left: 150px;
+  height:30px;
+  border-radius: 10px;
+  background: lightblue;
+  width: 200px;
+  
+}
